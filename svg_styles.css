@@ -1,0 +1,9 @@
+body {
+	background-color: white;
+}
+
+svg.elements {
+	fill: black;
+	width: 20em;
+	height: 20em;
+}
