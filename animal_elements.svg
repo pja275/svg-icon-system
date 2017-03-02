@@ -77,7 +77,7 @@
 				</g>
 		</symbol>
 
-		<svg version="1.1" id="zebra_symbol" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+		<symbol version="1.1" id="zebra_symbol" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
 				<g>
 					<defs>
 						<rect id="SVGID_1_" x="51.09" y="-5.02" width="500" height="500"/>
@@ -108,7 +108,7 @@
 						c2.16,7.8,5.53,15.64,10.68,21.75c11.63,2.81,23.77,4.32,36.27,4.32c1.38,0,2.75-0.02,4.12-0.06
 						C246.95,385.48,247.44,364.55,248.82,345.53z"/>
 				</g>
-		</svg>
+		</symbol>
 
 
 		<symbol version="1.1" id="giraffe_symbol" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
